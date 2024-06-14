@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  M21_Homework
 //
-//  Created by Maxim NIkolaev on 15.02.2022.
+//  Created by Максим Зыкин on 09.06.2024
 //
 
 import UIKit

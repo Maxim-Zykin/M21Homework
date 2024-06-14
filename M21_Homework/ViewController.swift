@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  M21_Homework
 //
-//  Created by Maxim Nikolaev on 15.02.2022.
+//  Created by Максим Зыкин on 09.06.2024
 //
 
 import UIKit
@@ -88,7 +88,6 @@ class ViewController: UIViewController {
             self.moveRight(fish: fish)
           })
     }
-    
     
     func moveRight(fish: Fish) {
         if fish.isFishCathed { return }
